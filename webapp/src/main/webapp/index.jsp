@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter full BGMI account Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter BGMI account Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, More things to do in life. </h1>
+   <h1> Thankyou, More things to do in life Pubg player. </h1> 
 
   
 </form>
