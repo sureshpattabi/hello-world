@@ -31,8 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, More things to do in life Pubg player
-                    you are awesome. </h1> 
+   <h1> Thankyou date-aug,20,22 :) </h1> 
 
   
 </form>
